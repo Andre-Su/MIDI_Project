@@ -1,2 +1,2 @@
 # MIDI_Project
-/../main/midiInstrument/index.html
+(/main/midiInstrument/index.html)
